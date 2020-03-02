@@ -19,6 +19,9 @@
 - `rm -rf ~/.nextflow/assets/<REPO-PATH>` - Removes downloaded repo if switching branches etc
 - `rm -rf .nextflow* results work` - Clean a working directory if having problems
 
+## Groovy
+- `list ? list : “The list is empty”` - One line ifelse
+
 ## Containers
 ### Vagrant
 #### Creating a VM
